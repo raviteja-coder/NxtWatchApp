@@ -1,0 +1,22 @@
+.link {
+  text-decoration: none;
+}
+.trending-icon {
+  color: red;
+  font-size: 30px;
+  margin: 10px;
+}
+.saved-container {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  margin-left: 260px;
+  padding-top: 50px;
+}
+
+.saved-heading {
+  display: flex;
+  align-items: center;
+  margin-left: 260px;
+  padding-top: 50px;
+}

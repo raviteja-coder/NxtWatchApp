@@ -1,0 +1,40 @@
+.icon {
+  font-size: 25px;
+  color: #cccccc;
+  margin-right: 30px;
+}
+
+.icon-container {
+  display: flex;
+  align-items: center;
+}
+
+.paragraph {
+  font-size: 15px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+ul {
+  padding: 0px;
+}
+
+.light {
+  color: #383838;
+}
+
+.dark {
+  color: #f1f1f1;
+}
+li {
+  list-style-type: none;
+}
+.red {
+  color: #ff0b37;
+}
+
+.contact-us-container {
+  padding: 10px;
+}

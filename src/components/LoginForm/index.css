@@ -1,0 +1,19 @@
+.error-msg {
+  color: #ff0000;
+  font-family: 'Roboto';
+}
+
+.label {
+  font-weight: bold;
+  width: 80%;
+  margin-bottom: 5px;
+  padding: 0px;
+}
+
+.input {
+  font-size: 20px;
+  margin: 0px;
+
+  width: 80%;
+  height: 40px;
+}
